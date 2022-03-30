@@ -15,8 +15,8 @@ Carolina Peixoto,Marta B. Lopes,Marta Martins,Sandra Casimiro,Daniel Sobral,Ana 
 
 ## Data
 Two cohorts of CRC patients from Hospital Santa Maria (Lisbon, Portugal): 
-1) 102 CRC primary and metastatic patients, described in paper Sobral et al., will be available after publishing (accession number EGAD00001007686 - EGA) - https://ega-archive.org/datasets/EGAD00001007686; 
-2) 114 CRC primary patients described in Golkaram, Mahdi, et al.[1], available in NCBI Database (accession number PRJNA689313) - https://www.ncbi.nlm.nih.gov/bioproject/PRJNA689313
+1) 102 CRC primary and metastatic patients, described in paper Sobral et al., will be available after publishing (accession number EGAD00001007686 - EGA) - https://ega-archive.org/search-results.php?query=EGAD00001007686; 
+2) 114 CRC primary patients described in Golkaram, Mahdi, et al.[1], available in NCBI Database (accession number PRJNA689313) - https://www.ncbi.nlm.nih.gov/bioproject/PRJNA689313.
 
 
 [1] Golkaram, Mahdi, et al. "HERVs establish a distinct molecular subtype in stage II/III colorectal cancer with poor outcome." NPJ genomic medicine 6.1 (2021): 1-11.
